@@ -4,3 +4,6 @@ Data Structures are ultimately ways to organize data. All data is in memory whic
 -Algorithms are just step by step procedures to accomplish a goal. They can be measured by how many additional "atomic procedures" are added to the total number when you add another element to be processed. This is where the ideas of big O notation come from.
 
 -Data Structures and Algorithms are the fundamental 
+
+Example of a Data Structure: [[Heap]]
+
